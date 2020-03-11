@@ -25,5 +25,7 @@ extension ViewController {
 
 /// Branch1
 extension ViewController {
-    
+    func functionOfBranch1() {
+        
+    }
 }
